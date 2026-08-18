@@ -75,7 +75,7 @@ streamlit run app.py
 
 ### Live Streamlit app
 
-https://ml-assignment-2-anshulola.streamlit.app
+https://ml-assignment-2-x2hflsyvt6kotlozznwba9.streamlit.app/
 
 ### Streamlit app features
 
